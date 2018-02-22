@@ -1,2 +1,1 @@
-# OraWorld
-Oracle Ddevelopment Tools
+# Tools for Developers, Newbies and the rest of us Geeks
